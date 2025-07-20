@@ -9,3 +9,4 @@
 - Pychenette n° 4 : Visualiser l'évolution de l'usage des prénoms comme personnages de séries
 - Pychenette n° 5 : Introduction à la librairie polars
 - Pychenette n° 6 : Enveloppe convexe du drapeau européen
+- Pychenette n° 7 : Résolution de l'énigme mathématique des chevaux de Troyes
