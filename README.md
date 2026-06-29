@@ -11,3 +11,4 @@
 - Pychenette n° 6 : Visualiser l'enveloppe convexe du drapeau européen
 - Pychenette n° 7 : Résolution de l'énigme mathématique des chevaux de Troyes
 - Pychenette n° 8 : Performances de plotly express vs graph_objects
+- Pychenette n° 9 : Visualisation de la carte de France avec les villes correspondant aux températures extrêmes moyennes
